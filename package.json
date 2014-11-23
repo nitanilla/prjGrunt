@@ -1,0 +1,30 @@
+{
+  "name": "prjGrunt",
+  "version": "1.0.0",
+  "devDependencies": {
+    "grunt": "^0.4.5",
+    "grunt-contrib-jshint": "~0.10.0",
+    "grunt-contrib-nodeunit": "~0.4.1",
+    "grunt-contrib-uglify": "~0.5.0"
+  },
+  "description": "prj grunt created in github with nodegh.io",
+  "main": "index.js",
+  "scripts": {
+    "test": "grunt test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nitanilla/prjGrunt.git"
+  },
+  "keywords": [
+    "grunt",
+    "test",
+    "nodegh"
+  ],
+  "author": "nita nilla",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nitanilla/prjGrunt/issues"
+  },
+  "homepage": "https://github.com/nitanilla/prjGrunt"
+}
